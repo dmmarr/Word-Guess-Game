@@ -1,0 +1,24 @@
+h1{
+    font-family: 'Luckiest Guy', cursive;
+    text-align: center;
+    color:yellow;
+    font-size:100px;
+}
+body{
+    background:lightblue;
+}
+#guess-blanks{
+    font-size: 50px;
+    margin-left: 350px;
+    color: pink;
+}
+img{ 
+    width: 350px;
+    length: 300px;
+float: left;
+padding: 50px;
+margin-right: 300px;
+}
+.Words{
+    padding: 30px;
+}
